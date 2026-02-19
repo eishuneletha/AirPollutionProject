@@ -71,12 +71,11 @@ The application follows a client-server architecture:
 3. Configure database connection
   Open: Connect.php
   Update if needed:
-  
-  ```php
   $host = "localhost";
   $username = "root";
   $password = "";
   $database = "air_pollution_db";
+
 4. Run Create.php to create tables
 5. Run the project.
 
